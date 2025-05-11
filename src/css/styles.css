@@ -6,12 +6,11 @@
 */
 /* Common styles */
 @import url('./1-timer.css');
-/* @import url('./2-snackbar.css'); */
-/* @import url('./aditional.css'); */
+@import url('./2-snackbar.css');
+@import url('./aditional.css');
 @import url('./base.css');
 @import url('./container.css');
 @import url('./reset.css');
-@import url('./styles.css');
 
 /* styles.css — темна тема для головної сторінки */
 
